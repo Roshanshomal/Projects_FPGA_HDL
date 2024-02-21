@@ -6,7 +6,7 @@ Fig1. FA1b_Simulation
 
 Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation, as well as the target hardware used in this design.
 
-![Example Image](Projects/P01_FA_1bit/FA1b_AllStepsReports.png)
+![Example Image](FA1b_AllStepsReports.png)
 Fig2. Different Reports
 
 cc

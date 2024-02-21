@@ -12,5 +12,5 @@ Fig2. Design Reports
 In Fig.3, the resource utilization as well as the power consumption of the FPGA are shown.
 
 ![Example Image](FA1b_Resource_Utilization.png)
-Fig2. Resource utilization and power consumption
+Fig3. Resource utilization and power consumption
 

@@ -3,8 +3,10 @@ This project describes the design of a 1-bit full adder in VHDL. It is implement
 ![Example Image](FA1b_Simulation.png)
 Fig1. FA1b_Simulation
 
+
 Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation, as well as the target hardware used in this design.
 
 ![Example Image](FA1b_AllStepsReports.png)
+
 
 cc

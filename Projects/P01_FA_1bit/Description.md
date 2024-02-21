@@ -5,16 +5,22 @@
 **<p align="center">Fig1. Simulation Result</p>**
 <br>
 
-<p align="justify">Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation steps, as well as the target hardware used in this design.</p>
+<p align="justify">Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation steps and the target hardware used in this design.</p>
 
 ![Example Image](FA1b_AllStepsReports.png)
 
 **<p align="center">Fig2. Design Reports</p>**
 <br>
 
-<p align="justify">In Fig.3, the resource utilization as well as the power consumption of the FPGA are shown.</p>
+<p align="justify">In Fig.3, the FPGA's resource utilization and power consumption are shown.</p>
 
 ![Example Image](FA1b_Resource_Utilization.png)
 **<p align="center">Fig3. Resource utilization and power consumption</p>**
 <br>
 
+<p align="justify">In Fig.4, we can see the schematic of the Arty S7 board, focusing on the slide switches and LEDs. Three slide switches corresponding to the three inputs, and also two LEDs corresponding to the two outputs are used in this design. </p>
+
+![Example Image](ArtyS7_SW,BTN,LED.png)
+
+**<p align="center">Fig4. Pinouts of the slide switches and LEDs in Arty S7 FPGA board</p>**
+<br>

@@ -24,3 +24,5 @@
 
 **<p align="center">Fig4. FPGA Pinouts for slide switches and LEDs in Arty S7 FPGA board</p>**
 <br>
+
+At the end, and in Fig.5, the real FPGA board demonstrating the result of the design is demonstrated. As all the input values are high (value 1), both the LEDs have become on.

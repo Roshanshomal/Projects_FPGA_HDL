@@ -3,18 +3,18 @@
 ![Example Image](FA1b_Simulation.png)
 
 **<p align="center">Fig1. Simulation Result</p>**
-<br><br>
+<br>
 
 <p align="justify">Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation steps, as well as the target hardware used in this design.</p>
 
 ![Example Image](FA1b_AllStepsReports.png)
 
 **<p align="center">Fig2. Design Reports</p>**
-<br><br>
+<br>
 
 <p align="justify">In Fig.3, the resource utilization as well as the power consumption of the FPGA are shown.</p>
 
 ![Example Image](FA1b_Resource_Utilization.png)
 **<p align="center">Fig3. Resource utilization and power consumption</p>**
-<br><br>
+<br>
 

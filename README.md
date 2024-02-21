@@ -1,2 +1,2 @@
 # Projects_FPGA_HDL
-![Example Image](NNN.png)
+![Example Image](/Images/NNN.png)

@@ -32,4 +32,4 @@
 **<p align="center">Fig5. Arty S7 board showing the result of the design</p>**
 <br>
 
-![Example Image](FA1b_HW_Manager.png)
+![Example Image](FA1b_HW_Manager.png) 

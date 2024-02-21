@@ -22,5 +22,5 @@
 
 ![Example Image](ArtyS7_SW,BTN,LED.png)
 
-**<p align="center">Fig4. Pinouts of the slide switches and LEDs in Arty S7 FPGA board</p>**
+**<p align="center">Fig4. FPGA Pinouts for slide switches and LEDs in Arty S7 FPGA board</p>**
 <br>

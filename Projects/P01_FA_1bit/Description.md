@@ -2,16 +2,15 @@ This project describes the design of a 1-bit full adder in VHDL and is implement
 
 ![Example Image](FA1b_Simulation.png)
 **Fig1. Simulation Result**
-<br>
+<br><br>
 Fig.2 shows the successful completion of the Synthesis, Implementation, and Bitstream generation steps, as well as the target hardware used in this design.<br>
 
 ![Example Image](FA1b_AllStepsReports.png)
 **Fig2. Design Reports**
-
-<br>
+<br><br>
 In Fig.3, the resource utilization as well as the power consumption of the FPGA are shown.<br>
 
 ![Example Image](FA1b_Resource_Utilization.png)
 **Fig3. Resource utilization and power consumption**
-<br>
+<br><br>
 

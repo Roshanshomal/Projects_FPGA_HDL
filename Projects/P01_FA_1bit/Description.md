@@ -32,4 +32,4 @@
 **<p align="center">Fig5. Arty S7 board showing the result of the design</p>**
 <br>
 
-![Example Image](Projects_FPGA_HDL/Images/ArtyS7_SW,BTN,LED.png)
+![Example Image](Images/ArtyS7_SW,BTN,LED.png)

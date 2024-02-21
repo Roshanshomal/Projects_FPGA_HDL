@@ -20,7 +20,7 @@
 
 <p align="justify">In Fig.4, we can see the schematic of the Arty S7 board, focusing on the slide switches and LEDs. Three slide switches corresponding to the three inputs, and also two LEDs corresponding to the two outputs are used in this design. </p>
 
-![Example Image](Images/ArtyS7_SW,BTN,LED.png)
+![Example Image](Images/ArtyS7_SW_BTN_LED.png)
 
 **<p align="center">Fig4. FPGA Pinouts for slide switches and LEDs in Arty S7 FPGA board</p>**
 <br>

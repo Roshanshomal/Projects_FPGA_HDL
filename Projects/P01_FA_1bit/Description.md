@@ -1,6 +1,6 @@
 <p align="justify"> This project describes the design of a 1-bit full adder in VHDL and is implemented in Xilinx Vivado 2021.2. The design is tested on the "Digilent Arty S7-50" evaluation board which uses an "XC7S50-1CSGA324C" Spartan7 FPGA. You can see the block diagram of it in Fig.1. </p>
 
-![Example Image](Images/FA1b_Simulation.png)
+![Example Image](Images/FA1b_Block_Diagram.PNG)
 
 **<p align="center">Fig1. Block Diagram of the 1-bit Full Adder</p>**
 <br>

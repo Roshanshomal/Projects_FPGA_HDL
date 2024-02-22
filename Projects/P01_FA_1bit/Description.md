@@ -19,7 +19,7 @@
 **<p align="center">Fig3. Design Reports</p>**
 <br>
 
-<p align="justify">In Fig.4, the FPGA's resource utilization and power consumption are shown.</p>
+<p align="justify">In Fig.4, the FPGA resource utilization and power consumption are shown.</p>
 
 ![Example Image](Images/FA1b_Resource_Utilization.png)
 **<p align="center">Fig4. Resource utilization and power consumption</p>**

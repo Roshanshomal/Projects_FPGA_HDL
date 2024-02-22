@@ -25,9 +25,5 @@
 **<p align="center">Fig4. Resource utilization and power consumption</p>**
 <br>
 
-![Example Image](Images/ArtyS7.jpg)
-
-**<p align="center">Fig5. Arty S7 board showing the result of the design</p>**
-<br>
 
 

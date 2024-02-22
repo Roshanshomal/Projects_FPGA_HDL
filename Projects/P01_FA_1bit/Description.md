@@ -2,7 +2,7 @@
 
 ![Example Image](FA1b_Block_Diagram.png)
 
-**<p align="center">Fig1. Block Diagram of the Design</p>**
+**<p align="center">Fig1. Block Diagram of the 1-bit Full Adder</p>**
 <br>
 
 <p align="justify"> In Fig. 2, the simulation result is demonstrated corresponding to the input signals given in the test bench. </p>

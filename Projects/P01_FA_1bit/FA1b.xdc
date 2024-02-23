@@ -8,7 +8,7 @@
 
 ## Target Board    : Arty S7-50
 ## Target Device   : XC7S50-1CSGA324C
-## Tool Versions   : Vivado 2021.2
+## Tool Version    : Vivado 2021.2
 ## Target Language : VHDL
 ##################################################################################
 

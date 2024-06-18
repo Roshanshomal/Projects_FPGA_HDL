@@ -5,7 +5,7 @@
 **<p align="center">Fig1. Block Diagram of the 1GHz FIR filter </p>**
 <br>
 
-Here are the output while the input is a chirp signal:
+Here are the outputs while the input is a chirp signal:
 
 ![Example Image](Images/Pass_Band.png)
 

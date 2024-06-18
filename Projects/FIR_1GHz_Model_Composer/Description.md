@@ -4,3 +4,15 @@
 
 **<p align="center">Fig1. Block Diagram of the 1GHz FIR filter </p>**
 <br>
+
+Here are the output while the input is a chirp signal:
+
+![Example Image](Images/Pass_Band.png)
+
+**<p align="center">Fig2. Input and Output in pass-band </p>**
+<br>
+
+![Example Image](Images/Stop_Band.png)
+
+**<p align="center">Fig2. Input and Output in stop-band </p>**
+<br>

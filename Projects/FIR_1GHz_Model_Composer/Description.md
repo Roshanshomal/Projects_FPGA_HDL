@@ -19,4 +19,4 @@ Here are the outputs while the input is a chirp signal:
 <br>
 
 
-<p align="justify">  Are you ready to export the RTL of the design and implement it in Vivado? Stay tuned! </p>
+<p align="justify">  Are you ready to export the design's RTL counterpart, implement it in Vivado, and get the resource utilization? Stay tuned! </p>

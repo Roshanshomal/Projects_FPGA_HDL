@@ -14,5 +14,5 @@ Here are the output while the input is a chirp signal:
 
 ![Example Image](Images/Stop_Band.png)
 
-**<p align="center">Fig2. Input and Output in stop-band </p>**
+**<p align="center">Fig3. Input and Output in stop-band </p>**
 <br>

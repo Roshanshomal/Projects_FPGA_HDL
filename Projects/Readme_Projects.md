@@ -1,1 +1,1 @@
-**<p align="center"> Note: All the codes in this folder have been written in VHDL. </p>**
+**<p align="center"> Note: Here you can choose between projects </p>**
